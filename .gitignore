@@ -209,3 +209,4 @@ package-lock.json
 
 # solidity ignore items
 artifacts/
+#.states/
